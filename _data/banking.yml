@@ -134,6 +134,12 @@ websites:
       img: fifththird.png
       tfa: No
 
+    - name: First National Bank of Omaha
+      url: https://www.fnbk.com
+      twitter: FNBOmaha
+      img: fnbk.png
+      tfa: No
+
     - name: First Tech Federal Credit Union
       url: https://www.firsttechfed.com/
       img: firsttechfcu.png
@@ -242,6 +248,12 @@ websites:
       url: https://www.simple.com/
       twitter: simple
       img: simple.png
+      tfa: No
+
+    - name: Stanford Federal Credit Union
+      url: https://www.sfcu.org/
+      twitter: StanfordFCU
+      img: sfcu.png
       tfa: No
 
     - name: SunTrust
